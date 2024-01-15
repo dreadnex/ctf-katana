@@ -1656,3 +1656,5 @@ OpenToAll - https://opentoallctf.github.io/
 [International Code of Signals Maritime]: https://en.wikipedia.org/wiki/International_Code_of_Signals
 [maritime flags translator]: https://www.dcode.fr/maritime-signals-code
 [static-binaries]: https://github.com/andrew-d/static-binaries
+
+#Troubleshooting

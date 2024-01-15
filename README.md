@@ -44,6 +44,7 @@ are welcome!
 28. [Miscellaneous](#miscellaneous)
 29. [Jail Breaks](#jail-breaks)
 30. [Trivia](#trivia)
+31. [Troubleshooting](#troubleshooting)
 
 ---------------
 
